@@ -1,36 +1,54 @@
 {
   "name": "lovedev-extensions-pack",
-  "displayName": "lovedev-extensions-pack",
-  "description": "",
+  "displayName": "lovedev Extension Pack",
   "version": "0.0.1",
+  "publisher": "ms-vscode",
+  "description": "I got tired of installing one by one all my extensions, so I decided to create this pack for you, so you can install everything I use to develop easily and quickly when setting up your workspace.",
+  "author": {
+    "name": "Angelo Velandia <@lovedev>"
+  },
   "engines": {
     "vscode": "^1.71.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
+  },
   "extensionPack": [ 
-    "RapidAPI.vscode-rapidapi-client", //Consumir API's
-    "formulahendry.auto-close-tag", //Cerrar etiquetas XML de forma automatica
-    "formulahendry.auto-complete-tag", //Completar etiquetas XML de forma automatica
-    "formulahendry.auto-rename-tag", //Renombrar etiquetas XML de forma automatica
-    "in4margaret.compareit", //Comparar dos archivos y ver las diferencias
-    "dbaeumer.vscode-eslint", //Ver errores y variables sin uso
-    "vincaslt.highlight-matching-tag", //Ver el inicio y cierre de una eiqueta XML
-    "ritwickdey.LiveServer", //Ejecutar archivos en tiempo real Servidor Local
-    "esbenp.prettier-vscode", //Formatear codigo
-    "Natizyskunk.sftp", //Conectar a cualquier servicio a SFTP
-    "ahmadawais.shades-of-purple", //Tema para desarrollar como un Pro
-    "TabNine.tabnine-vscode", //Ayuda de autocompletado
-    "dsznajder.es7-react-js-snippets", //Ayudas para React - Native - Redux
-    "TTOOWA.in-your-face-incredible", //Ver que tan mal desarrollas
-    "kisstkondoros.vscode-gutter-preview", //Ver imagenes sin tener que abrirlas
-    "moyu.snapcode", //Tomar capturas de tu codigo de forma bonita
-    "MS-vsliveshare.vsliveshare", //Trabaja de forma colaborativa en vivo
-    "xabikos.JavaScriptSnippets", //Ayudas para JS
-    "HookyQR.beautify", //Formatear codigo bonito
-    "christian-kohler.path-intellisense", //Usar rutas facilmente
-    "christian-kohler.npm-intellisense", //Ayudas para paquetes npm en codigo
-    "mikestead.dotenv", //Ver un poco mejor los archivos .env
-  ]
+    "RapidAPI.vscode-rapidapi-client",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
+    "in4margaret.compareit",
+    "dbaeumer.vscode-eslint",
+    "vincaslt.highlight-matching-tag",
+    "ritwickdey.LiveServer",
+    "esbenp.prettier-vscode",
+    "Natizyskunk.sftp",
+    "ahmadawais.shades-of-purple",
+    "TabNine.tabnine-vscode",
+    "dsznajder.es7-react-js-snippets",
+    "TTOOWA.in-your-face-incredible",
+    "kisstkondoros.vscode-gutter-preview",
+    "moyu.snapcode",
+    "MS-vsliveshare.vsliveshare",
+    "xabikos.JavaScriptSnippets",
+    "HookyQR.beautify",
+    "christian-kohler.path-intellisense",
+    "christian-kohler.npm-intellisense",
+    "mikestead.dotenv"
+  ],
+  "bugs": {
+    "url": "https://github.com/angelovelandia/lovedev-extensions-pack/issues",
+    "email": "velandia_angelo@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angelovelandia/lovedev-extensions-pack.git"
+  },
+  "homepage": "https://github.com/angelovelandia/lovedev-extensions-pack/blob/main/README.md"
 }
