@@ -1,21 +1,21 @@
 {
   "name": "lovedev-extensions-pack",
-  "displayName": "lovedev Extension Pack",
-  "version": "0.0.1",
-  "publisher": "ms-vscode",
+  "displayName": "Extension Pack @lovedev",
+  "version": "0.0.2",
+  "publisher": "lovedev",
   "description": "I got tired of installing one by one all my extensions, so I decided to create this pack for you, so you can install everything I use to develop easily and quickly when setting up your workspace.",
   "author": {
     "name": "Angelo Velandia <@lovedev>"
   },
   "engines": {
-    "vscode": "1.91.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Extension Packs"
   ],
   "icon": "icon.png",
   "galleryBanner": {
-    "color": "#C80000",
+    "color": "#B35ADF",
     "theme": "dark"
   },
   "extensionPack": [ 
