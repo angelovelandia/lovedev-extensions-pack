@@ -1,7 +1,7 @@
 {
   "name": "lovedev-extensions-pack",
   "displayName": "Extension Pack @lovedev",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "lovedev",
   "description": "I got tired of installing one by one all my extensions, so I decided to create this pack for you, so you can install everything I use to develop easily and quickly when setting up your workspace.",
   "author": {
@@ -36,8 +36,7 @@
     "kisstkondoros.vscode-gutter-preview",
     "moyu.snapcode",
     "MS-vsliveshare.vsliveshare",
-    "xabikos.JavaScriptSnippets",
-    "HookyQR.beautify",
+    "xabikos.JavaScriptSnippets", 
     "christian-kohler.path-intellisense",
     "christian-kohler.npm-intellisense",
     "mikestead.dotenv"
