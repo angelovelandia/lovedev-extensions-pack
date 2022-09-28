@@ -1,7 +1,7 @@
 {
   "name": "lovedev-extensions-pack",
   "displayName": "Extension Pack @lovedev",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "lovedev",
   "description": "I got tired of installing one by one all my extensions, so I decided to create this pack for you, so you can install everything I use to develop easily and quickly when setting up your workspace.",
   "author": {
@@ -29,7 +29,6 @@
     "ritwickdey.LiveServer",
     "esbenp.prettier-vscode",
     "Natizyskunk.sftp",
-    "ahmadawais.shades-of-purple",
     "TabNine.tabnine-vscode",
     "dsznajder.es7-react-js-snippets",
     "TTOOWA.in-your-face-incredible",
