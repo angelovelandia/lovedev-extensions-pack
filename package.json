@@ -38,7 +38,12 @@
     "xabikos.JavaScriptSnippets", 
     "christian-kohler.path-intellisense",
     "christian-kohler.npm-intellisense",
-    "mikestead.dotenv"
+    "mikestead.dotenv",
+    "Angular.ng-template",
+    "aaron-bond.better-comments",
+    "formulahendry.code-runner",
+    "ms-azuretools.vscode-docker",
+    "usernamehw.errorlens"
   ],
   "bugs": {
     "url": "https://github.com/angelovelandia/lovedev-extensions-pack/issues",
