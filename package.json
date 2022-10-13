@@ -1,7 +1,7 @@
 {
   "name": "lovedev-extensions-pack",
   "displayName": "Extension Pack @lovedev",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "publisher": "lovedev",
   "description": "I got tired of installing one by one all my extensions, so I decided to create this pack for you, so you can install everything I use to develop easily and quickly when setting up your workspace.",
   "author": {
@@ -33,7 +33,6 @@
     "dsznajder.es7-react-js-snippets",
     "TTOOWA.in-your-face-incredible",
     "kisstkondoros.vscode-gutter-preview",
-    "moyu.snapcode",
     "MS-vsliveshare.vsliveshare",
     "xabikos.JavaScriptSnippets", 
     "christian-kohler.path-intellisense",
@@ -43,7 +42,14 @@
     "aaron-bond.better-comments",
     "formulahendry.code-runner",
     "ms-azuretools.vscode-docker",
-    "usernamehw.errorlens"
+    "usernamehw.errorlens",
+    "adpyke.codesnap",
+    "ecmel.vscode-html-css",
+    "Prisma.prisma",
+    "jundat95.react-native-snippet",
+    "svelte.svelte-vscode",
+    "ChakrounAnas.turbo-console-log",
+    "onlyutkarsh.vsix-viewer"
   ],
   "bugs": {
     "url": "https://github.com/angelovelandia/lovedev-extensions-pack/issues",
